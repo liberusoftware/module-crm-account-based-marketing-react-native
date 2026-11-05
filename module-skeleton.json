@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-account-based-marketing-react-native",
+  "capabilityKey": "liberusoftware/module-crm-account-based-marketing",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-crm-account-based-marketing-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/crm/nextjs/account-based-marketing.md",
+  "presentationPlan": "projects/crm/react-native/account-based-marketing.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
